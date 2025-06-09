@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\UnityProjects\\Bubble Fall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|a:\\unityprojects\\bubble fall\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|A:\\UnityProjects\\Bubble Fall\\assets\\scripts\\playerball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|A:\\UnityProjects\\Bubble Fall\\assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|A:\\UnityProjects\\Bubble Fall\\assets\\scripts\\custompool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\custompool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|A:\\UnityProjects\\Bubble Fall\\assets\\scripts\\linetriger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\linetriger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|A:\\UnityProjects\\Bubble Fall\\assets\\scripts\\resultwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resultwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|A:\\UnityProjects\\Bubble Fall\\assets\\scripts\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|A:\\UnityProjects\\Bubble Fall\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|A:\\UnityProjects\\Bubble Fall\\assets\\scripts\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|A:\\UnityProjects\\Bubble Fall\\assets\\scripts\\spawnballforplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnballforplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|A:\\UnityProjects\\Bubble Fall\\assets\\scripts\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|A:\\UnityProjects\\Bubble Fall\\assets\\scripts\\trajectoryrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trajectoryrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|A:\\UnityProjects\\Bubble Fall\\assets\\scripts\\firstscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F2208-7707-6F04-D15F-5B1E27A47765}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firstscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LineTriger.cs",
+              "DocumentMoniker": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\LineTriger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LineTriger.cs",
+              "ToolTip": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\LineTriger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LineTriger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:19:19.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultWindow.cs",
+              "DocumentMoniker": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\ResultWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResultWindow.cs",
+              "ToolTip": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\ResultWindow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResultWindow.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:01:38.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pause.cs",
+              "DocumentMoniker": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\Pause.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pause.cs",
+              "ToolTip": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\Pause.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pause.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:43:50.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\Settings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Settings.cs",
+              "ToolTip": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\Settings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Settings.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:53:44.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FirstScene.cs",
+              "DocumentMoniker": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\FirstScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FirstScene.cs",
+              "ToolTip": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\FirstScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FirstScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:04:28.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Audio.cs",
+              "DocumentMoniker": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\Audio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio.cs",
+              "ToolTip": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\Audio.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:26:36.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrajectoryRenderer.cs",
+              "DocumentMoniker": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\TrajectoryRenderer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrajectoryRenderer.cs",
+              "ToolTip": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\TrajectoryRenderer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrajectoryRenderer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T10:07:35.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerBall.cs",
+              "DocumentMoniker": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\PlayerBall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerBall.cs",
+              "ToolTip": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\PlayerBall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerBall.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAtwEUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:48:05.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
+              "ToolTip": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\Ball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ball.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAuwEsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:27:40.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:25:42.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpawnBallForPlayer.cs",
+              "DocumentMoniker": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\SpawnBallForPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnBallForPlayer.cs",
+              "ToolTip": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\SpawnBallForPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnBallForPlayer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvzAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:11:48.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomPool.cs",
+              "DocumentMoniker": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\CustomPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CustomPool.cs",
+              "ToolTip": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\CustomPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CustomPool.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwCgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:25:48.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "A:\\UnityProjects\\Bubble Fall\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA1wCkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:50:54.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
